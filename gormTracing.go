@@ -1,4 +1,4 @@
-package gormTracing
+package github.com/haierspi/gormTracing
 
 import (
 	"github.com/opentracing/opentracing-go"
