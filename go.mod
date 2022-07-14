@@ -1,4 +1,4 @@
-module gormTracing
+module github.com/haierspi/gormTracing
 
 go 1.14
 
