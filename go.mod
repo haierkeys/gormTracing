@@ -1,6 +1,6 @@
 module github.com/haierspi/gormTracing
 
-go 1.14
+go 1.18
 
 require (
 	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
