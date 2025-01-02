@@ -1,4 +1,4 @@
-module github.com/haierspi/gormTracing
+module github.com/haierkeys/gormTracing
 
 go 1.18
 
